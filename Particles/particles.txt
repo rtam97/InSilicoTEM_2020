@@ -1,2 +1,0 @@
-Here information about particle positions and rotations is stored
-
