@@ -38,7 +38,7 @@ How to use InSilicoTEM simulator:
     - Pixel size
     - Minimum particle distance
     - Directory where to save the micrographs
-4) Other parameters (such as acceleration voltage, specimen thickness) can be set within the 'src/TEMsim.m' function
+4) Other parameters (such as acceleration voltage, specimen thickness, detector type, etc.) can be set within the 'src/TEMsim.m' function
 5) Run 'RunTEMsim.m' with the chosen parameters
 6) Find the generated micrographs in the '/Micrographs' folder
 
