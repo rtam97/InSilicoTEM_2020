@@ -1,0 +1,2 @@
+here are stored positions and rotations of all the particles in a micrograph
+
