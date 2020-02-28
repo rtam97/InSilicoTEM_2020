@@ -21,7 +21,7 @@ Changes to the original code include:
     - After optimization it only uses up to 60 GB
     - Up to 3 simulations at the same time can therefore now be run on a single machine with 256 GB RAM without outofmemory errors
 
-How to use InSilicoTEM simulator:
+How to use InSilicoTEM simulator: testing updates
 -
 
 !! BEFORE USING THE SIMULATOR, MAKE SURE THAT A WORKING VERSION OF DIPimage (http://www.diplib.org/) FOR MATLAB IS INSTALLED ON THE COMPUTER !! 
