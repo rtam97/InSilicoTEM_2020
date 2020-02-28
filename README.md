@@ -24,7 +24,7 @@ Changes to the original code include:
 How to use InSilicoTEM simulator:
 -
 
-!! BEFORE USING THE SIMULATOR, MAKE SURE A WORKING VERSION OF DIPimage FOR MATLAB IS INSTALLED ON THE COMPUTER !! 
+!! BEFORE USING THE SIMULATOR, MAKE SURE THAT A WORKING VERSION OF DIPimage (http://www.diplib.org/) FOR MATLAB IS INSTALLED ON THE COMPUTER !! 
 
 1) Add the PDB file to be imaged to the '/PDBs' folder
 2) Start MATLAB and open 'RunTEMsim.m'
@@ -32,8 +32,8 @@ How to use InSilicoTEM simulator:
     - Number of micrographs to generate
     - Phase plate usage
     - Defocus range
-    - Motion blur (radiation damage)
-    - Correction factor
+    - Correction factor [multiple values can be specified so that for each micrograph nr. as many micrographs as correction factor values will be produced]
+    - Motion blur (radiation damage) [same as for correction factor]
     - Size of the micrographs (pixels)
     - Pixel size
     - Minimum particle distance
